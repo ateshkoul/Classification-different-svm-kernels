@@ -1,5 +1,10 @@
 % script to find features from kinematics data
 
+% ----------------------------
+% Author : Atesh Koul
+% Italian Institute of technology, Genoa
+% ----------------------------
+
 %close all;
 %clear all;
 clc;

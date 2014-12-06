@@ -1,7 +1,17 @@
+
+function [accTest, accCv] = kinematicsvm_param_sig(Data)
+
 % function to automatically select the kinematics data, predict the
 % accuracy of the classification, select the best features/ provide best
 % features using F-score
-function [accTest, accCv] = kinematicsvm_param_sig(Data)
+
+
+% ----------------------------
+% Author : Atesh Koul
+% Italian Institute of technology, Genoa
+% ----------------------------
+
+
 
 
 % Get the current folder will be used to save the files filename.fscore,
